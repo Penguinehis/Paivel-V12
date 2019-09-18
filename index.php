@@ -10,16 +10,16 @@
     <meta name="description" content="">
     <meta name="author" content="Crazy_vpn">
     <!-- Favicon icon -->
-    <link rel="icon" type="image/png" sizes="16x16" href="../assets/images/favicon.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicon.png">
     <title>CRACKEDPENGUIN | Entrar</title>
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
     <!-- Bootstrap Core CSS -->
-    <link href="../assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <!-- Custom CSS -->
-    <link href="../material/css/style.css" rel="stylesheet">
+    <link href="material/css/style.css" rel="stylesheet">
     <!-- You can change the theme colors from here -->
-    <link href="../material/css/colors/red-dark.css" id="theme" rel="stylesheet">
+    <link href="material/css/colors/red-dark.css" id="theme" rel="stylesheet">
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" rel="stylesheet">
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -130,7 +130,7 @@
             <!-- slimscrollbar scrollbar JavaScript -->
             <script src="material/js/jquery.slimscroll.js"></script>
             <!--Wave Effects -->
-            <script src="~material/js/waves.js"></script>
+            <script src="material/js/waves.js"></script>
             <!--Menu sidebar -->
             <script src="material/js/sidebarmenu.js"></script>
             <!--stickey kit -->
