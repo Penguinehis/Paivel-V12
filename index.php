@@ -97,7 +97,7 @@
                         <div class="row">
                             <div class="col-xs-12 col-sm-12 col-md-12 m-t-10 text-center">
                                 <div class="social">
-                                    <a href="/admin" class="btn btn-circle btn-danger" data-toggle="tooltip" title="Area do Administrador"> <i aria-hidden="true" class="fas fa-user-shield"></i> </a>
+                                    <a href="/html/admin" class="btn btn-circle btn-danger" data-toggle="tooltip" title="Area do Administrador"> <i aria-hidden="true" class="fas fa-user-shield"></i> </a>
                                 </div>
                             </div>
                         </div>
